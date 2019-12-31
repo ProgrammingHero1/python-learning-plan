@@ -1,0 +1,39 @@
+Day -1:
+Execute Python
+output
+variable 
+variable type
+math
+input
+coditional
+
+Day: 2
+List
+for loop
+while loop
+function
+
+>> Day: 3
+simple coding problems
+
+>> Day: 4
+Intermediate coding problems
+
+>>Day: 5
+Data Structure
+
+>> Day 6: 
+OOP
+Object
+class 
+constructor
+method
+Inheritance
+Encapsulation
+polymorphism
+
+>>Day 7: 
+search Algorithm
+
+Week 2: 
+Day -1: Git and github
